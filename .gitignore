@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.pickle
+
+# .DS_Store for OSX
+.DS_Store
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Intellij
+.idea/
+<<<<<<< HEAD
+.idea/*.*
+=======
+>>>>>>> 7b0f6746578b6f15dff41f098e172e29c97bbbbf
+vcs.xml
